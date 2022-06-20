@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://c.tenor.com/8JzC4WIfadMAAAAi/splatoon-littleparade_.gif" width="27px" height="27px">
+  <img src="https://c.tenor.com/74l5y1hUdtwAAAAi/pokemon.gif" width="27px" height="80px">
   <br><br>
   <samp>
     :wave: Hi! I am OrangeKami.
-    <br>
-    <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">  
+    <br><br>
+    <img src="https://c.tenor.com/_irU8oUff_IAAAAC/anya-anya-forger.giff" width="240px" align="center">  
   </samp>
 </p>
