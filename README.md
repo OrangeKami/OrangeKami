@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://c.tenor.com/74l5y1hUdtwAAAAi/pokemon.gif" width="27px" height="80px">
+  <img src="https://c.tenor.com/74l5y1hUdtwAAAAi/pokemon.gif" width="27px" height="60px">
   <br><br>
   <samp>
     :wave: Hi! I am OrangeKami.
