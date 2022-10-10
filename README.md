@@ -6,6 +6,6 @@
     <br><br>
     <img src="https://c.tenor.com/_irU8oUff_IAAAAC/anya-anya-forger.giff" width="240px" align="center">  
   </samp>
-</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrangeKami)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+  </p》
